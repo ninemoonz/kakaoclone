@@ -1,3 +1,3 @@
 # Kakaotalk clone 2022
 
-HTML and CSS
+Clone coding of Kakaotalk front end with basic skills of HTML and CSS
