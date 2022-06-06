@@ -6,6 +6,7 @@
     position: sticky;
     width: 100%;
     box-sizing: border-box;
+    padding: var(--horizontal-space);
 }
 
 .screen-header__title {
