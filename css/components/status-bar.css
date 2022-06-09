@@ -2,12 +2,6 @@
     display: flex;
     justify-content: center;
     padding: 5px 3px;
-    position: sticky;
-    top: 0;
-    width: 100%;
-    box-sizing: border-box;
-    background-color:cornflowerblue;
-
 }
 .status-bar__column{
     width: 33%;
